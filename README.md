@@ -1,5 +1,9 @@
 # modbus-serial
 
+!!!!! Modification apporter par IO2A pour pouvoir communiquer avec les module de regulation la marque CREATIO
+Il necessite un mot de passe integre dans une commande de lecture d'identification modifie
+
+
 A pure JavaScript implemetation of MODBUS-RTU (Serial and TCP) for NodeJS.
 
 [![NPM download](https://img.shields.io/npm/dm/modbus-serial.svg)](http://www.npm-stats.com/~packages/modbus-serial)
