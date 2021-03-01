@@ -1,7 +1,7 @@
 # modbus-serial
 
-!!!!! Modification apporter par IO2A pour pouvoir communiquer avec les module de regulation la marque CREATIO
-Il necessite un mot de passe integre dans une commande de lecture d'identification modifie
+!!!!! Modification apportees par IO2A pour pouvoir communiquer avec les modules de regulation de la marque CREATIO
+Il necessite un mot de passe integre dans une commande de lecture d'identification code 17
 
 
 A pure JavaScript implemetation of MODBUS-RTU (Serial and TCP) for NodeJS.
